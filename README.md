@@ -1,6 +1,6 @@
 ### Olá, eu sou a Stéfany Lima 👋
 
-- 🌱 Estudando programação 
+- 🌱 Estudando programação na Gama Academy
 - 📫 How to reach me: stefany_limaa@hotmail.com
 - 😄 Pronouns: ela/dela
 
